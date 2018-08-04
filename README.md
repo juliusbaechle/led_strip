@@ -12,7 +12,6 @@ Besonders viel Zeit brauchte ich für das herausfiltern des Beats. Diese Aufgabe
 
 Verwendete Teile:
   6m Led - Streifen - 45Grad - Schienen:  https://www.amazon.de/SET-Streifen-aluminium-Abdeckung-Milchig/dp/B01CIGL5ZC
-  
   LED - Streifen: 5m WS2812b 60Led's/m 5050SMD   
   Netzteil: 20A, 5V (jede Led braucht bei sattem weiß 60mA, also insgesamt bei 300 leds 18A)  
   2x Arduino Nano 
