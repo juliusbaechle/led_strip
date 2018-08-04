@@ -15,6 +15,7 @@ Verwendete Teile:
   1. Mikrofon: https://de.gearbest.com/development-boards/pp_75530.html?wid=1433363&currency=EUR&vip=4275440&gclid=Cj0KCQjwnZXbBRC8ARIsABEYg6DAVj4klgGvm_FK7SffO8b9GuHlMoG62-gpR9um7N3DPtw4AhxALiwaAuAdEALw_wcB
   2. Mikrofon: https://eckstein-shop.de/Adafruit-Electret-Microphone-Amplifier-MAX9814-with-Auto-Gain-Control?curr=EUR&gclid=Cj0KCQjwnZXbBRC8ARIsABEYg6Be5oasw_1sZAome6iuzRh2w_e5OefY3upOmmmHYqdvGxQYTThdKPEaAk-SEALw_wcB
   2x Arduino Nano
+  
   2x Arduino Nano "breakout shield": https://www.ebay.de/i/122968008677?chn=ps
   Kabel (am besten rot (+5V), schwarz (ground) und weiß (Datenkabel))
   Schrauben und Gummipuffer um die Bauteile auf einem Brett zu befestigen
