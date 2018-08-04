@@ -6,7 +6,7 @@ An den 2. Arduino ist ein Bluetooth Modul und 2 Mikrofone angeschlossen. Davon i
 
 Für dieses Projekt brauchte ich fast ein Jahr (studiere "neben diesem Projekt"). In dieser Zeit arbeitete ich 4 Versionen heraus. Diese starteten mit einer unübersichtlichen Version mit normalen Effekten. Diese schrieb ich deutlich besser und übersichtlicher.
 Version 3 war mit auf Musik reagierenden Effekten, Version 4 spaltete dies auf 2 Arduinos auf.
-Besonders viel Zeit brauchte ich für das herausfiltern des Beats. Diese Aufgabe löste ich mit der FFT (Fast Fourier Transformation) (Siehe arduino_2/beat/getBeat()).
+Besonders viel Zeit brauchte ich für das herausfiltern des Beats. Diese Aufgabe löste ich mit der FFT (Fast Fourier Transformation) und zwei Funktionen. Die erste Funktion filtert dauerhafte tiefe Töne heraus, die zweite setzt die Grenze damit das Registrierte als Beat gilt (Siehe arduino_2/beat/getBeat()).
 
 
 
