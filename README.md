@@ -11,20 +11,21 @@ Besonders viel Zeit brauchte ich für das herausfiltern des Beats. Diese Aufgabe
 
 
 Verwendete Teile:
+  6m Led - Streifen - 45Grad - Schienen:  https://www.amazon.de/SET-Streifen-aluminium-Abdeckung-Milchig/dp/B01CIGL5ZC
 
-  LED - Streifen: 5m WS2812b 60Led's/m 5050SMD
-  
-  Bluetooth Modul: HC - 05
+  LED - Streifen: 5m WS2812b 60Led's/m 5050SMD  
   
   Netzteil: 20A, 5V (jede Led braucht bei sattem weiß 60mA, also insgesamt bei 300 leds 18A)
+  
+  2x Arduino Nano
+  
+  2x Arduino Nano "breakout shield": https://www.ebay.de/i/122968008677?chn=ps  
   
   1. Mikrofon: https://de.gearbest.com/development-boards/pp_75530.html?wid=1433363&currency=EUR&vip=4275440&gclid=Cj0KCQjwnZXbBRC8ARIsABEYg6DAVj4klgGvm_FK7SffO8b9GuHlMoG62-gpR9um7N3DPtw4AhxALiwaAuAdEALw_wcB
   
   2. Mikrofon: https://eckstein-shop.de/Adafruit-Electret-Microphone-Amplifier-MAX9814-with-Auto-Gain-Control?curr=EUR&gclid=Cj0KCQjwnZXbBRC8ARIsABEYg6Be5oasw_1sZAome6iuzRh2w_e5OefY3upOmmmHYqdvGxQYTThdKPEaAk-SEALw_wcB
   
-  2x Arduino Nano
-  
-  2x Arduino Nano "breakout shield": https://www.ebay.de/i/122968008677?chn=ps
+  Bluetooth Modul: HC - 05
   
   Kabel (am besten rot (+5V), schwarz (ground) und weiß (Datenkabel))
   
