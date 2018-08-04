@@ -9,6 +9,7 @@ Version 3 war mit auf Musik reagierenden Effekten, Version 4 spaltete dies auf 2
 Besonders viel Zeit brauchte ich für das herausfiltern des Beats. Diese Aufgabe löste ich mit der FFT (Fast Fourier Transformation) (Siehe arduino_2/beat/getBeat()).
 
 
+
 Verwendete Teile:
 
   LED - Streifen: 5m WS2812b 60Led's/m 5050SMD
