@@ -9,6 +9,7 @@ Version 3 war mit auf Musik reagierenden Effekten, Version 4 spaltete dies auf 2
 Besonders viel Zeit brauchte ich für das herausfiltern des Beats. Diese Aufgabe löste ich mit der FFT (Fast Fourier Transformation) und zwei Funktionen. Die erste Funktion filtert dauerhafte tiefe Töne heraus, die zweite setzt die Grenze damit das Registrierte als Beat gilt (Siehe arduino_2/beat/getBeat()).
 
 
+Insgesamt kosteten mich die Materialien ca. 80€.
 
 Verwendete Teile:
 
