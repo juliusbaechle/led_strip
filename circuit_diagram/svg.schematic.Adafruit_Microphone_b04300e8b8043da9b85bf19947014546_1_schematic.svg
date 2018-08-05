@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.86 25.4" baseProfile="tiny" x="0in" y="0in"  height="1in" version="1.2" width="0.9in">
+    <desc>
+        <referenceFile>Amplified-Mic-Electret-v14_schematic.svg</referenceFile>
+    </desc>
+    <g id="schematic"  gorn="0.0">
+        <rect stroke="#000000" x="0.15875" y="5.23875"  class="interior rect" height="14.9225" fill="#FFFFFF" stroke-linecap="round" stroke-width="0.3175" width="17.4625"/>
+        <line y2="12.7" stroke="#787878" id="connector10pin"  class="pin" x1="17.6565" y1="12.7" fill="none" gorn="0.0.1" stroke-linecap="round" x2="22.7365" stroke-width="0.246944"/>
+        <rect stroke="none" id="connector10terminal" x="22.8546" y="12.8232"  class="terminal" height="0.000493888" fill="none" stroke-width="0" width="0.0106539"/>
+        <text stroke="none" x="17.1626" y="12.9469"  class="text" text-anchor="end" fill="#8c8c8c" font-family="'Droid Sans'" stroke-width="0" font-size="1.23472">AUD</text>
+        <line y2="25.2765" stroke="#787878" id="connector9pin"  class="pin" x1="7.62" y1="20.1965" fill="none" gorn="0.0.4" stroke-linecap="round" x2="7.62" stroke-width="0.246944"/>
+        <g  transform="translate(7.86694,19.7026)">
+            <g >
+                <g  transform="rotate(270)">
+                    <g >
+                        <text stroke="none" x="0" y="0"  class="text" text-anchor="start" fill="#8c8c8c" font-family="'Droid Sans'" stroke-width="0" font-size="1.23472">GND</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect stroke="none" id="connector9terminal" x="7.49653" y="25.2765"  class="terminal" height="0.246944" fill="none" gorn="0.0.6" stroke-width="0" width="0.246944"/>
+        <line y2="5.20347" stroke="#787878" id="connector8pin"  class="pin" x1="7.62" y1="0.123472" fill="none" gorn="0.0.7" stroke-linecap="round" x2="7.62" stroke-width="0.246944"/>
+        <g  transform="translate(7.86694,5.69736)">
+            <g >
+                <g  transform="rotate(270)">
+                    <g >
+                        <text stroke="none" x="0" y="0"  class="text" text-anchor="end" fill="#8c8c8c" font-family="'Droid Sans'" stroke-width="0" font-size="1.23472">VCC</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect stroke="none" id="connector8terminal" x="7.49653" y="-0.123472"  class="terminal" height="0.246944" fill="none" gorn="0.0.9" stroke-width="0" width="0.246944"/>
+        <text id="label" stroke="none" x="9.04875" y="9.87194"  class="text" text-anchor="middle" fill="#000000" gorn="0.0.10" font-family="'Droid Sans'" stroke-width="0" font-size="1.49931">Breakout</text>
+        <text id="label" stroke="none" x="9.04875" y="11.4712"  class="text" text-anchor="middle" fill="#000000" gorn="0.0.11" font-family="'Droid Sans'" stroke-width="0" font-size="1.49931">Board for</text>
+        <text id="label" stroke="none" x="9.04875" y="13.0706"  class="text" text-anchor="middle" fill="#000000" gorn="0.0.12" font-family="'Droid Sans'" stroke-width="0" font-size="1.49931">Electret</text>
+        <text id="label" stroke="none" x="9.04875" y="14.6699"  class="text" text-anchor="middle" fill="#000000" gorn="0.0.13" font-family="'Droid Sans'" stroke-width="0" font-size="1.49931">Microphone</text>
+    </g>
+</svg>
